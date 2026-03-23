@@ -3,3 +3,4 @@ pub mod block;
 pub mod wallet;
 pub mod miner;
 pub mod block_actions;
+pub mod identity;
